@@ -50,7 +50,11 @@
 >|week9 (~ 2023-06-11)|chapter 6. - 11. 정리 | - | - |
 >|week10 (~ 2023-09-02)|chapter 6. - 11. 정리 | - | chapter 1-6 복습 |
 >|week11 (~ 2023-09-09)|chapter 7. - 02. 군집 평가 | chapter 1-6 복습 | chapter 1-6 복습, <br> <a href = https://www.kaggle.com/competitions/pku-autonomous-driving/code>Kaggle Peking University/Baidu - Autonomous Driving</a>
-  
+>|week12 (~ 2023-09-16)|chapter 7. - 04. GMM | - | chapter 1-6 복습, <br> <a href = https://arxiv.org/pdf/1904.07850.pdf>Objects as Points</a>
+>|week13 (~ 2023-09-24)|chapter 7. - 07. 정리 | chapter 7 복습 | chapter 1-6 복습, <br> <a href = https://arxiv.org/pdf/1904.07850.pdf>Objects as Points</a>
+>|week14 (~ 2023-10-7)| Objects as Points 논문 분석,  <br> <a href = https://www.kaggle.com/competitions/pku-autonomous-driving/code>Kaggle Peking University/Baidu - Autonomous Driving</a> : CenterNet Baseline Code 작성 및 분석 | Objects as Points, CenterNet Baseline Code Review | <a href = https://www.kaggle.com/competitions/pku-autonomous-driving/code>Kaggle Peking University/Baidu - Autonomous Driving</a> : CenterNet Baseline Code 제출 |
+>|week15 (~ 2023-10-14)| chapter 8. - 04. 텍스트 분류 실습 - 20 뉴스그룹 분류 | - | - |
+
 <br>
 
 ## 📚 reference
